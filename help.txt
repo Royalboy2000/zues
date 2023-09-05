@@ -1,0 +1,3 @@
+run install_python.bat to download python
+run install.bat to download set dependencies
+run builder to start building it 
